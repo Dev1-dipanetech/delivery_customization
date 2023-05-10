@@ -1,6 +1,6 @@
-## delivery_customization
+## Delivery Customization
 
-delivery_customization
+Delivery Customization
 
 #### License
 

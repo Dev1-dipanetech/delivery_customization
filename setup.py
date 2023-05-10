@@ -9,9 +9,9 @@ from delivery_customization import __version__ as version
 setup(
 	name="delivery_customization",
 	version=version,
-	description="delivery_customization",
-	author="dev2",
-	author_email="dev2",
+	description="Delivery Customization",
+	author="Raj Tailor",
+	author_email="tailorraj111@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,

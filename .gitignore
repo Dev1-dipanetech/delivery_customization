@@ -3,5 +3,4 @@
 *.egg-info
 *.swp
 tags
-delivery_customization/docs/current
-node_modules/
+node_modules
